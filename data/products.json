@@ -1,16 +1,16 @@
 [
   {
-    "name": "goggle ipex3",
+    "name":"goggle",
     "price":14000
   },
   {
-    "name": "htc",
-    "price": 2000
+    "name":"htc",
+    "price":2000
   },
   
   {
-    "name": "apple",
-    "price": 30000
+    "name":"apple",
+    "price":30000
   
   }
 
